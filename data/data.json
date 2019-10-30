@@ -1,0 +1,19 @@
+{
+    "response": {
+        "happy":[
+            "I am glad you are happy", "Tell me more about why you are happy", " I am happy as well"
+        ],
+        "angry": [
+            "Why are you angry?", "Don't be", "Everytime I get angry, I sing the song 'Don't worry be happy' to myself."
+        ], 
+        "weather": [
+            "It is lovely weather", "The rain makes me sleepy", "*Raindrops keep dropping on my head*"
+        ],
+        "intro":[
+            "Do you like the weather we are having?", "Tell me about yourself", "What do you do as your career?"
+        ],
+        "random": [
+            "Bubble gum, bubble gum in a dish. How many pieces do you wish?", "Do you know you are talking to a machine?", "Look out, behind you!!!"
+        ]
+    }
+}
